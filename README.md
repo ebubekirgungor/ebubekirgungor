@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img style="user-select:none;pointer-events:none;visibility:visible;max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=ebubekirgungor&theme=dark">
+    <img height="165px" style="user-select:none;pointer-events:none;visibility:visible;max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=ebubekirgungor&theme=dark">
   </picture>
   <br>
   <picture>
