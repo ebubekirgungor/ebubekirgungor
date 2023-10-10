@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="#">
+  <picture>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ebubekirgungor&theme=dark">
-  </a>
+  </picture>
   <br>
-  <a href="#">
+  <picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirgungor&layout=compact&theme=dark&langs_count=6&hide=php,blade">
-  </a>
+  </picture>
 </p>
