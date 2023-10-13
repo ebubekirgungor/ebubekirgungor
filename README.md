@@ -1,4 +1,4 @@
-<p style="user-select:none;" align="center">
+<p align="center">
   <picture>
     <img height="165px" style="user-select:none;pointer-events:none;visibility:visible;max-width:100%;" src="https://github-readme-streak-stats.herokuapp.com?user=ebubekirgungor&theme=dark">
   </picture>
